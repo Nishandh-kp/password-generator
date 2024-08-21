@@ -1,0 +1,23 @@
+How It Works:
+-> generate_password(length) Function:
+
+It generates a password of the specified length using random choices of letters, digits, and punctuation.
+-> User Input:
+
+The user is prompted to input the desired password length.
+-> Validation:
+
+The code checks that the user has entered a valid number and ensures that the length is at least 1.
+Password Generation:
+
+-> The password is generated and displayed.
+You can run this script in any Python environment. If you need the code to be adjusted in any way
+
+
+usage :
+ step1 = clone the file
+    git clone https://github.com/Nishandh-kp/password-generator.git
+ step2 = enter the location 
+    cd (file name)
+ step3 = execute the python file
+    python (python file)
